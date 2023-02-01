@@ -1,16 +1,16 @@
-How to run the Student Management System (StudentMS) Project
+
 
 1. Download the  zip file
 
 2. Extract the file and copy studentms folder
 
-3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+3.Paste inside root directory(for xampp xampp/htdocs)
 
-4. Open PHPMyAdmin (http://localhost/phpmyadmin)
+4. Open PHPMyAdmin
 
 5. Create a database with name studentmsdb
 
-6. Import studentmsdb.sql file(given inside the zip package in SQL file folder)
+6. Import studentmsdb.sql file
 
 7.Run the script http://localhost/studentms (frontend)
 
@@ -25,5 +25,3 @@ Credential for Student / User panel :
 
 Username: anujk3
 Password: Test@123
-
- Or Register a new Student/User.
